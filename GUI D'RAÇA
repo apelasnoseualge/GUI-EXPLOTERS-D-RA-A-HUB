@@ -1,1 +1,6 @@
+local players = game:GetService("PLayers")
+local player = Players.LocalPlayer
 
+Local Gui = instance.new("ScreenGui")
+
+GUI.parent+ Player:WaitForChild
